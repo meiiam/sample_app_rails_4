@@ -20,3 +20,8 @@ doc/
 .rvmrc
 .ruby-*
 .secret
+
+# Ignore capistrano files
+Capfile
+config/deploy
+config/deploy.rb
